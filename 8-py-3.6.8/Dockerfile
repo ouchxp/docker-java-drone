@@ -1,4 +1,4 @@
-FROM alpine:3.10
+FROM alpine:3.9
 
 RUN apk add --update \
     python3=3.6.8-r2 \
